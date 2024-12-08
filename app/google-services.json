@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126922244666",
+    "project_id": "awesomechat-228fd",
+    "storage_bucket": "awesomechat-228fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126922244666:android:d70193350f4b498a60ab03",
+        "android_client_info": {
+          "package_name": "com.example.awesomechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsgREUcDDNW6mCM5KEOp_vQxQTHPUIao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
